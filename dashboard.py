@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
 import numpy as np
-# from babel.numbers import format_currency
+from babel.numbers import format_currency
 
 
 # Helper function yang dibutuhkan untuk menyiapkan berbagai dataframe
